@@ -13,4 +13,4 @@ A well-designed heuristic can significantly reduce the number of states explored
 
 A common example is the **Romania Route Finding Problem**, where cities are represented as nodes and roads as connections. Heuristics such as the straight-line distance to **Bucharest** can be used to guide algorithms such as A* toward the destination.
 
-!(Romania)[romania_routing.png]
+![Romania](romania_routing.png)
