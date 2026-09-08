@@ -1,0 +1,14 @@
+digraph {
+	rankdir=LR
+	A [fillcolor=cyan style=filled]
+	B [fillcolor=cyan style=filled]
+	C [fillcolor=cyan style=filled]
+	D [fillcolor=cyan style=filled]
+	E [fillcolor=cyan style=filled]
+	A -> B
+	A -> C
+	B -> C
+	B -> E
+	C -> D
+	C -> E
+}

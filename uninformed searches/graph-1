@@ -1,0 +1,10 @@
+graph {
+	rankdir=LR
+	A [style=filled]
+	B [style=filled]
+	C [style=filled]
+	D [style=filled]
+	A -- C
+	B -- C
+	C -- D
+}

@@ -1,0 +1,14 @@
+graph {
+	rankdir=LR
+	A [fillcolor=yellow style=filled]
+	B [fillcolor=yellow style=filled]
+	C [fillcolor=yellow style=filled]
+	D [fillcolor=yellow style=filled]
+	E [fillcolor=yellow style=filled]
+	A -- B
+	A -- C
+	B -- C
+	B -- E
+	C -- D
+	C -- E
+}

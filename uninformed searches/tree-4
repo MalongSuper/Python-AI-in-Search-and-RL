@@ -1,0 +1,14 @@
+digraph Tree {
+	
+	A
+	B
+	C
+	D
+	E
+	F
+	A -> B
+	A -> C
+	B -> D
+	B -> E
+	C -> F
+}

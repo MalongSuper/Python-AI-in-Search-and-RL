@@ -1,0 +1,23 @@
+digraph {
+	node [fixedsize=true fontname=Helvetica shape=circle style=filled width=0.6]
+	nodesep=0.5 rankdir=TB ranksep=0.8
+	A [label=A fillcolor=white]
+	B [label=B fillcolor=white]
+	D [label=D fillcolor=white]
+	G [label=G fillcolor=white]
+	H [label=H fillcolor=white]
+	E [label=E fillcolor=white]
+	I [label=I fillcolor=white]
+	J [label=J fillcolor=white]
+	C [label=C fillcolor=white]
+	F [label=F fillcolor=white]
+	A -> B [label=1]
+	A -> C [label=2]
+	B -> D [label=5]
+	B -> E [label=6]
+	D -> G [label=7]
+	G -> H [label=9]
+	E -> I [label=8]
+	E -> J [label=5]
+	C -> F [label=1]
+}
