@@ -6,13 +6,13 @@ A collection of code, experiments, and examples related to Artificial Intelligen
 
 Most of the materials are stored in Jupyter Notebooks, allowing algorithms and concepts to be explored alongside explanations, experiments, and results.
 
-Overview
+### Overview
 
 Search, Game Theory, and Reinforcement Learning are fascinating branches of AI because they focus on how an intelligent system can make decisions, explore possibilities, compete or cooperate with others, and learn from the consequences of its actions.
 
 Rather than simply mapping an input to an output, these approaches allow an AI system to reason about possible actions and their outcomes.
 
-Search in AI
+### Search in AI
 
 Search algorithms allow an AI system to explore a set of possible states or actions in order to find a solution or make a decision.
 
@@ -29,7 +29,7 @@ Examples include:
 
 Search is particularly important in problems such as pathfinding, puzzle solving, planning, and game playing.
 
-Game Theory
+### Game Theory
 
 Game Theory studies decision-making in situations where the outcome depends not only on an agent’s actions, but also on the actions of other agents.
 
@@ -48,7 +48,7 @@ Important concepts include:
 
 Game theory is especially interesting when multiple intelligent agents must reason about each other’s decisions.
 
-Reinforcement Learning
+### Reinforcement Learning
 
 Reinforcement Learning (RL) focuses on how an agent learns to make decisions by interacting with an environment.
 
@@ -77,7 +77,7 @@ Common topics and algorithms may include:
 * Exploration vs. Exploitation
 * Deep Reinforcement Learning
 
-Why These Areas Are Fascinating
+### Why These Areas Are Fascinating
 
 These areas demonstrate an important aspect of AI: intelligence as decision-making.
 
@@ -89,7 +89,7 @@ Explore → Decide → Act → Observe → Learn
 
 This makes them particularly useful for games, robotics, autonomous systems, planning, optimization, simulations, and multi-agent systems.
 
-Repository Contents
+### Repository Contents
 
 This repository primarily contains:
 
